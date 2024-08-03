@@ -7,3 +7,4 @@ xhofe/alist:latest
 haroldli/xiaoya-tvbox
 xiaoyaliu/alist
 onlyoffice/documentserver
+linuxserver/nextcloud
