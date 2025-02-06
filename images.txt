@@ -8,3 +8,4 @@ haroldli/xiaoya-tvbox
 xiaoyaliu/alist
 onlyoffice/documentserver
 linuxserver/nextcloud
+infiniflow/ragflow
