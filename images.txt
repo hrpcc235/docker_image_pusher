@@ -11,3 +11,4 @@ linuxserver/nextcloud
 infiniflow/ragflow:v0.16.0
 mysql
 redis
+
